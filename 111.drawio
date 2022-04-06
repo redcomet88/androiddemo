@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T03:25:49.592Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="DdK7iISclCIQGhzM1YZA" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T03:26:45.356Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="uQtwTVARXESYV8eueDNT" version="17.4.0" type="github">
   <diagram id="N3gwCIWqZhKbX9w5mEa0" name="Page-1">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
         <mxCell id="09WwTuHsZS0fro8fE326-48" value="公开招标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="920" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="09WwTuHsZS0fro8fE326-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="09WwTuHsZS0fro8fE326-64" target="09WwTuHsZS0fro8fE326-68">
+        <mxCell id="09WwTuHsZS0fro8fE326-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;endArrow=classic;endFill=1;" edge="1" parent="1" source="09WwTuHsZS0fro8fE326-64" target="09WwTuHsZS0fro8fE326-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="09WwTuHsZS0fro8fE326-64" value="发出邀请或公告&lt;br&gt;发售采购文件、接收公告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
